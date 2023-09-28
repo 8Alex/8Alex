@@ -19,5 +19,5 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 <h3>:chart_with_upwards_trend:GitHub Stats</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=8Alex&theme=elegant&hide_border=true)](https://git.io/streak-stats)
+
 
