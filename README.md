@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Alexandra 👋</h1>
-<h3 align="center">Welcome to my page! I'm a Frontend Developer from Russia :woman_technologist:</h3>
+<h3 align="center">Welcome to my page! I'm a Frontend Developer :woman_technologist:</h3>
 <h3>:hammer_and_wrench:Languages and Tools</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
